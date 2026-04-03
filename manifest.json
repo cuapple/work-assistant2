@@ -1,16 +1,17 @@
 {
+  "id": "/work-assistant2/index.html",
   "name": "我的工作小助手",
   "short_name": "工作助手",
-  "start_url": "./index.html",
+  "start_url": ".",
   "display": "standalone",
   "background_color": "#fdfcf8",
   "theme_color": "#fdfcf8",
   "icons": [
     {
-      "src": "./icon.png",
-      "sizes": "318x300",
+      "src": "icon.png",
+      "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
     }
   ]
 }
