@@ -1,7 +1,7 @@
 {
   "id": "/work-assistant2/index.html",
-  "name": "我的工作小助手",
-  "short_name": "工作助手",
+  "name": "印记-工作助手",
+  "short_name": "印记",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#fdfcf8",
