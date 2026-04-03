@@ -1,9 +1,9 @@
-```javascript
 const CACHE_NAME = 'work-assistant-cache-v1';
 const urlsToCache = [
   './',
   './index.html',
-  './manifest.json'
+  './manifest.json',
+  './icon.png'
 ];
 
 self.addEventListener('install', event => {
@@ -23,4 +23,3 @@ self.addEventListener('fetch', event => {
       })
   );
 });
-```
